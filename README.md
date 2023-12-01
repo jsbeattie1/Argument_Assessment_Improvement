@@ -1,4 +1,4 @@
-**Argument Diagrams and Improved Argument Assessment**
+**Argument Diagrams and Improved Argument Assessment Skills**
 
 In the 2021-22 academic year, I implemented a major curriculum change - throughgoing incorporation of argument diagramming exercises (using 
 MindMup: https://www.mindmup.com/tutorials/argument-visualization.html) - in a class that I was teaching on scientific reasoning, evidence, and argumentation.
