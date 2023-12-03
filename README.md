@@ -13,8 +13,8 @@ As in the Princeton study, the main measurable outcome was performance on the LS
 the year and a different section at the end of the year (with standard time limits, unless students had school-sanctioned accommodations, and with the order of 
 the two sections randomized).
 
-The results for my class were in line with those seen in the Princeton study: on average, students answered substantially more questions correctly at the end of 
-the year than they did at the beginning. More specifically, depending on how the analysis was done (see below), their scores improved by 1.6 to 2.1 correct answers 
-out of 26 questions. This improvement was highly statistically significant (P=0.0002) and the equivalent of moving from the ~31st to ~45th percentile of LSAT takers.
+The results for my class were in line with those seen in the Princeton study: on average, students answered more questions correctly at the end of 
+the year than they did at the beginning. Depending on how the analysis was done (see discussion in the notebook), their scores improved by 1.6 to 2.1 correct answers 
+out of 26 questions, a moderate effect size (Cohen's d = 0.4-0.5) that was highly statistically significant (P=0.0002). This improvement was the equivalent of moving from the ~31st to ~45th percentile of LSAT takers. 
 
 Notebook: https://github.com/jsbeattie1/Argument_Assessment_Improvement/blob/main/Argument%20Assessment%20Improvement.ipynb
